@@ -4,7 +4,7 @@
 
 count=0
 
-for (( i=1; i<100; i++))
+for (( i=1; i<100; i++ ))
 do
 	digit=$i
 	remainder=$(($digit%10))
